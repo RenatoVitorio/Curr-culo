@@ -19,6 +19,9 @@ Estagiário na Diretoria de Pesquisa e Extensão do Campus (DIPEQ).
   * Colaborar no desenvolvimento do projeto que monitora a evasão escolar do Campus.
   * Corrigir bugs no projeto e desenvolver novas funcionalidades.
 
+## Redes Sociais
+
+- [Linkedin](https://www.linkedin.com/in/richard-manzoli)
 
 * (2015 -  2016) <br>
 **Prefeitura de São Gonçalo do Amarante** -
